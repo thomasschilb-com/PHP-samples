@@ -1,2 +1,2 @@
-# TS-PHP
+# PHP-samples
  Simple Useful PHP Scripts
