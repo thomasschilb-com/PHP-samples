@@ -1,0 +1,11 @@
+DIRECTORYINDEX INDEX.PHP index.php uf-index.php
+
+Options All +Indexes
+
+IndexOptions IgnoreCase FancyIndexing FoldersFirst NameWidth=*80 SuppressDescription SuppressIcon SuppressLastModified SuppressHTMLPreamble
+
+
+HeaderName      	/.header.html
+ReadmeName      	/.footer.html
+
+AddType 		application/octet-stream 	rtf pdf docx doc html php xml txt com exe 7z zip rar tar xz gz mp3 m4a mp4 wav bas png gif jpg
